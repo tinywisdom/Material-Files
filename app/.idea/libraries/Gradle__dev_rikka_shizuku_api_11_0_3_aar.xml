@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.rikka.shizuku:api:11.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f205391e2c6d0a7b152767dfcc0359ed/transformed/jetified-api-11.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f205391e2c6d0a7b152767dfcc0359ed/transformed/jetified-api-11.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f205391e2c6d0a7b152767dfcc0359ed/transformed/jetified-api-11.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.rikka.shizuku/api/11.0.3/f1d6e094f22a84e89affa5b4f99836e4fee8122d/api-11.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.rikka.shizuku/api/11.0.3/88699d1978ea2a4a4fac465df6828df792a4e0dd/api-11.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

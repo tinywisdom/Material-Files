@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.rikka.shizuku:shared:11.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b433ca7ebb438886e7c2b7e7bd6efe62/transformed/jetified-shared-11.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b433ca7ebb438886e7c2b7e7bd6efe62/transformed/jetified-shared-11.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b433ca7ebb438886e7c2b7e7bd6efe62/transformed/jetified-shared-11.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.rikka.shizuku/shared/11.0.3/72b5a67c488d22a85efacf62ca275e467113c9c3/shared-11.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.rikka.shizuku/shared/11.0.3/f47c29fa1e7709b69e04276c3eb82f60111c672/shared-11.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

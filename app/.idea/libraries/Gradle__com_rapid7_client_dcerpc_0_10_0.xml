@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.rapid7.client:dcerpc:0.10.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rapid7.client/dcerpc/0.10.0/e460b45343529e70ba5ed7576a86c6aaa409780a/dcerpc-0.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rapid7.client/dcerpc/0.10.0/9d594d2b9716b65826604228154f0787580ec880/dcerpc-0.10.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rapid7.client/dcerpc/0.10.0/59cb0b74b5aad6e8403987d799fe050d9e5ad61c/dcerpc-0.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: eu.agno3.jcifs:jcifs-ng:2.1.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/eu.agno3.jcifs/jcifs-ng/2.1.6/a53e090ba20751d29a18cab49c0a65a13d9be5ff/jcifs-ng-2.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/eu.agno3.jcifs/jcifs-ng/2.1.6/a903a7373dda94391a8496a20fe5977fec118045/jcifs-ng-2.1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/eu.agno3.jcifs/jcifs-ng/2.1.6/ae58fb207642c1f11526e100a2b5f35c631c114a/jcifs-ng-2.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

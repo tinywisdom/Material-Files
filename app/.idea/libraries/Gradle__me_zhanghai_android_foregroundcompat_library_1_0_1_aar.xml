@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: me.zhanghai.android.foregroundcompat:library:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4f79c8b72bbe3150ffada1d3f26c6a88/transformed/jetified-library-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4f79c8b72bbe3150ffada1d3f26c6a88/transformed/jetified-library-1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4f79c8b72bbe3150ffada1d3f26c6a88/transformed/jetified-library-1.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.zhanghai.android.foregroundcompat/library/1.0.1/a06727ecda4c2c101337db596325e3c08725f16c/library-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.zhanghai.android.foregroundcompat/library/1.0.1/4a4d1f8959b4b07ab4ec86df6919d5b597f53d92/library-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

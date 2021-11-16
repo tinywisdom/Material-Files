@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hierynomus:sshj:0.31.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hierynomus/sshj/0.31.0/8be0c4fb1d2ad007588c37475b154d35307e6580/sshj-0.31.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hierynomus/sshj/0.31.0/438acca7f93ed7a609c1a723bbd8acae15d1dbf/sshj-0.31.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hierynomus/sshj/0.31.0/97db7cb65c8eaf27ccc8d2ee35b7f2ae2ed115f2/sshj-0.31.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

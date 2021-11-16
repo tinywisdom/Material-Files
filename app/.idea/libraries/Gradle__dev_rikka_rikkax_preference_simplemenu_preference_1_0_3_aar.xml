@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.rikka.rikkax.preference:simplemenu-preference:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f2ee09823ede818eef151d9d638f3fe6/transformed/jetified-simplemenu-preference-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f2ee09823ede818eef151d9d638f3fe6/transformed/jetified-simplemenu-preference-1.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f2ee09823ede818eef151d9d638f3fe6/transformed/jetified-simplemenu-preference-1.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.rikka.rikkax.preference/simplemenu-preference/1.0.3/c87923bb4450bad21e3055177d9ade176b6feb9d/simplemenu-preference-1.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.rikka.rikkax.preference/simplemenu-preference/1.0.3/a1f68202667d270cdab5a0aa5ee29564316c33be/simplemenu-preference-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

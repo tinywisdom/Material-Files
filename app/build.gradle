@@ -97,7 +97,7 @@ dependencies {
 }
 
 dependencies {
-
+    implementation 'com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava'
     implementation 'androidx.mediarouter:mediarouter:1.2.2'
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
